@@ -6,10 +6,10 @@
 
 ![Quiz App](quiz app)
 
-## 📝 Description
+## Description
 Multiple-choice quiz with scoring and retake option.
 
-## 📖 Full Description
+## Full Description
 The **Quiz App** is an interactive React/Next.js application that presents users with multiple-choice questions and provides instant scoring upon completion. It offers a fun way to test knowledge across topics while demonstrating concepts like **state management, conditional rendering, and API-driven data handling**. With a responsive design, it delivers a seamless experience on both desktop and mobile.
 
 - **Live Demo:** [Quiz App](https://quiz-app-alpha-azure.vercel.app/)  
