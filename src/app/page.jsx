@@ -36,7 +36,7 @@ export default function Home() {
     return (
       <div className="flex min-h-screen flex-col items-center justify-center rounded-lg border p-6">
         <div className="rounded-2xl border p-6">
-          <h1 className="mb-4 text-center text-4xl font-bold">Trivia App</h1>
+          <h1 className="mb-4 text-center text-4xl font-bold">Quiz App</h1>
 
           <div className="w-full max-w-md space-y-4">
             <div>
