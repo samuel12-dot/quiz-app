@@ -4,7 +4,8 @@
 **Category:** React/Next.js  
 **Type:** APIs & Data  
 
-![Quiz App](quiz app)
+![Quiz App(quiz app)](/public/quiz.png)
+
 
 ## Description
 Multiple-choice quiz with scoring and retake option.
